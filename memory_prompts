@@ -1,0 +1,67 @@
+memory_prompts
+
+https://www.youtube.com/watch?v=LDB4uaJ87e0&t=2539s
+
+work-flow 
+    -install npm and dependancies
+    -run vite
+
+-- structure
+
+npm run dev
+npm run server
+
+work-flow 
+    -components folder
+    -autofill rafce (add component)
+    --name same as file
+    -install dependencies
+    -define component
+
+components
+className 'inline styling'
+
+state
+joblisting button prevState
+
+icons
+
+add pages and layouts
+
+-router
+--create route from a path with an element
+--Pages folder, homepage,add hero component
+--Layouts
+---outlet e.g navbar
+
+work-flow - create new page, app file, add route
+
+a tags to link and to
+
+navlink
+
+home page and navbar add functiond to slice and format
+
+data fetching
+
+json from backend
+- npm i -D json-server
+
+Spinners in Joblistings
+https://github.com/davidhu2000/react-spinners
+
+proxy configuration in vite config ( local host vs production server)
+
+react router data loader jobsPage
+
+submit (POST) and delete
+
+!calling functions across pages and locations of functions
+
+Toastify
+
+edit job page load job including params.id and define editSubmitJob event return >> app call jobloader and editJobSubmit methods >> call edit job function to post to JSON and then toast and navigate back to updated job
+
+npm run  build
+
+npm run preview
